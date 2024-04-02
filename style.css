@@ -22,7 +22,3 @@ body{
   width: 100vw;
   background-image: url("https://media.tenor.com/YV6noDPLTgMAAAAM/shrimp-cherry.gif");
 }
-
-html,body{
-  cursor: url("./images/cursor.png"), auto !important;
-}

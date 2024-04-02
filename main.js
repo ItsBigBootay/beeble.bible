@@ -1,3 +1,6 @@
 import './style.css'
 import './shrimp.css'
-import './enter.css'
+import './home_enter.css'
+import './realhome.css'
+import './tomb.css'
+import './shrine.css'

@@ -1,0 +1,36 @@
+.header{
+height: 12%;
+width: 100%;
+margin-left: 4%;
+margin-right: 50%;
+text-align: center;
+}
+
+.scroll{
+    width:90%;
+    margin-left: 13%;
+    position: absolute;
+}
+.sidenav{
+    height: auto;
+    width: 220px;
+    position: absolute;
+    z-index: 1;
+    top: 170px;
+    left: 20px;
+    background-image: url(./images/shrimp2-2.png);
+    background-size: cover;
+    overflow-x: hidden;
+    padding-top: 10px;
+    border: 10px red ridge;
+}
+
+.sidenav a{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    font-size: 30px;
+    color: forestgreen;
+    display: block;
+}
